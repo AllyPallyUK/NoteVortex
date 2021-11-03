@@ -1,9 +1,9 @@
 # Note Vortex
 
 A simple beat saber mod for 1.17.1 that allows control over notes such as:
-     - world rotation that rotates your world by 1 degree every time a note or wall spawns (Credit to Phish, his guide is lower down)
-     - A fun note effect that causes notes to spawn beneath you and swirl upwards.
-     - A multiplier for your note size, allowing you to make the notes bigger than the sun or smaller than your brain, up to you!
+* world rotation that rotates your world by 1 degree every time a note or wall spawns (Credit to Phish, his guide is lower down)
+* A fun note effect that causes notes to spawn beneath you and swirl upwards.
+* A multiplier for your note size, allowing you to make the notes bigger than the sun or smaller than your brain, up to you!
 
 ## Credits
 
