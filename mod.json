@@ -1,0 +1,20 @@
+
+{
+
+    "_QPVersion": "0.1.1",
+    "name": "Note Vortex",
+    "id": "noteVortex",
+    "author": "AllyPallyUK",
+    "version": "0.1.1",
+    "packageId": "com.beatgames.beatsaber",
+    "packageVersion": "1.17.1",
+    "coverImage": "cover.png",
+    "description": "A simple beat saber mod for 1.17.1 that allows control over notes",
+    "modFiles": [
+        "libnoteVortex.so"
+    ],
+    "libraryFiles": [
+        "libbeatsaber-hook_2_3_2.so",
+        "libbs-utils.so"
+    ]
+}
